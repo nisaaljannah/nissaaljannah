@@ -14,11 +14,11 @@
 ### <summary><strong>Let's connect!</strong></summary>
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://x.com/iluvcaaaa">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="ca Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.instagram.com/nsa.aljannah_/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="ca Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://nissaaljannah.blogspot.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+  <img align="left" alt="ca Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
