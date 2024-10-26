@@ -20,7 +20,8 @@ I'm Nissa Aljannah!</strong></summary>
   <img align="left" alt="ca Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
 
-<p2>
+
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=nisaaljannah&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaaljannah&layout=compact" height=180 />
-</p2>
+</p>
