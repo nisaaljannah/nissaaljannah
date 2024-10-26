@@ -1,4 +1,5 @@
-# <summary><strong>Hi there :wave: , I'm Nissa Aljannah!</strong></summary>
+# <summary><strong>Hi there :wave: , 
+I'm Nissa Aljannah!</strong></summary>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -11,7 +12,6 @@
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
-### <summary><strong>Let's connect!</strong></summary>
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.instagram.com/nsa.aljannah_/">
   <img align="left" alt="ca Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
