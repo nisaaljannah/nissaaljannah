@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , 
+# <summary><strong>Hi there :wave: 
 I'm Nissa Aljannah!</strong></summary>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
