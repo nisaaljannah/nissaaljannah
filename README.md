@@ -14,7 +14,7 @@
 ### <summary><strong>Let's connect!</strong></summary>
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://x.com/iluvcaaaa">
-  <img align="left" alt="ca Twitter" width="20px" src="<a href="https://iconscout.com/icons/twitter" class="text-underline font-size-sm" target="_blank">twitter</a> by <a href="https://iconscout.com/contributors/vijay-parihar" class="text-underline font-size-sm">Vj Parihar</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" />
+  <img align="left" alt="ca Twitter" width="20px" src="<a href="https://iconscout.com/icons/twitter" />
 </a>
 <a href="https://www.instagram.com/nsa.aljannah_/">
   <img align="left" alt="ca Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
