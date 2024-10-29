@@ -17,3 +17,5 @@ I'm Nissa Aljannah!</strong></summary>
 <a href="https://nissaaljannah.blogspot.com/">
   <img align="left" alt="ca Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
