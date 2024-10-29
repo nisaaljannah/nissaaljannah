@@ -20,12 +20,10 @@ I'm Nissa Aljannah!</strong></summary>
   <img align="left" alt="ca Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
 
-<br>
-<h2 align="left">Statistics</h2>
-<p align="center"> <!-- Mengganti 'middle' dengan 'center' untuk konsistensi -->
-    <a href="https://github.com/nisaaljannah">
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImCaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="ImCaa GitHub Stats"/>&nbsp;
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImCaa&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImCaa&theme=radical" alt="ImCaa Streak Stats"/>
-    </a>
-</p>
+## Statistics
+
+[![ImCaa GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ImCaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ImCaa)
+
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImCaa&layout=compact&langs_count=8&theme=radical)](https://github.com/ImCaa)
+
+[![ImCaa Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ImCaa&theme=radical)](https://github.com/ImCaa)
