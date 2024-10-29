@@ -24,7 +24,7 @@ I'm Nissa Aljannah!</strong></summary>
 <br>
 <h2 align="left">Statistics</h2>
 <p align="middle">
-<a href="https://github.com/nissaaljannah">
+<a href="https://github.com/nisaaljannah">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImCaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImCaa&layout=compact&langs_count=8&theme=radical"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImCaa&theme=radical" alt="IchaAgni" />
